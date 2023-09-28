@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PBarTheme">
+        <item name="colorSecondary">#861E9E</item>
+    </style>
+</resources>

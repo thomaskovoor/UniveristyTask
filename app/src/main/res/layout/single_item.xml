@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="85dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Uname"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/university_name"
+            android:textSize="15sp"
+            android:layout_marginStart="20dp"
+            android:padding="2dp"
+/>
+        <TextView
+            android:id="@+id/Ucountry"
+            android:textColor="#551224"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/country"
+            android:textSize="15sp"
+            android:layout_marginStart="20dp"
+            android:padding="2dp"
+/>
+        <TextView
+            android:id="@+id/Ulink"
+            android:textColor="#208EEF"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/website_link"
+            android:textSize="15sp"
+            android:layout_marginStart="20dp"
+            android:padding="2dp" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1.5dp"
+            android:background="#033E3E"/>
+
+        </LinearLayout>
+
+
+
+</RelativeLayout>

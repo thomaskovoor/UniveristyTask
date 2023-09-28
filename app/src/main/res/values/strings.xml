@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyAPP</string>
+    <string name="welcome_back">Welcome back !!!</string>
+    <string name="login">Login</string>
+    <string name="enter_name_here">Enter name here</string>
+    <string name="enter_password">Enter password</string>
+    <string name="submit">Submit</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="go">Go</string>
+    <string name="university_name">University Name</string>
+    <string name="country">Country</string>
+    <string name="website_link">Website Link</string>
+    <string name="title_activity_web">WebActivity</string>
+</resources>
